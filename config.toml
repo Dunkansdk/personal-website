@@ -1,0 +1,75 @@
+baseurl = "https://emanuelmatiasdurso.com"
+title = "Emanuel Matias D'Urso"
+copyright = "Content is available under CC-BY-SA 4.0"
+languageCode = "en"
+timeZone = "America/Argentina/Buenos_Aires"
+
+canonifyurls = true # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[markup.goldmark.extensions]
+table = true
+footnote = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+    author = "Emanuel Matias D'Urso"
+    authorEmail = "emanueldurso1@gmail.com"
+    info = "Solution Architect | Game Engine Dev | Enterprise Software | Low-Level Programming"
+    description = "Software Architect and Engineer passionate about low-level systems, game engine development, and enterprise architecture. From Vulkan rendering pipelines to SAP Commerce solutions."
+    keywords = "emanuel durso, vulkan, game engine, c++, solution architect, sap commerce"
+
+[[params.social]]
+    name = "Email"
+    weight = 1
+    url = "/contact"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 2
+    url = "https://www.linkedin.com/in/emanueldurso1"
+[[params.social]]
+    name = "Github"
+    weight = 3
+    url = "https://github.com/Dunkansdk"
+# [[params.social]]
+#     name = "Twitter"
+#     weight = 4
+#     url = "https://x.com/..."
+# [[params.social]]
+#     name = "YouTube"
+#     weight = 5
+#     url = "https://www.youtube.com/@..."
+
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "/about/"
+[[menu.main]]
+    name = "Expertise"
+    weight = 2
+    url = "/expertise/"
+[[menu.main]]
+    name = "Experience"
+    weight = 3
+    url = "/experience/"
+[[menu.main]]
+    name = "Blog"
+    weight = 4
+    url = "/blog/"
+[[menu.main]]
+    name = "Contact"
+    weight = 5
+    url = "/contact/"
+

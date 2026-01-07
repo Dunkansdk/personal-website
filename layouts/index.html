@@ -1,0 +1,79 @@
+{{ define "content" }}
+  <style>
+    .home {
+      text-align: center;
+    }
+    .home h1 {
+      margin-bottom: 1.6rem;
+    }
+    .home h2 {
+      font-size: 2.4rem;
+      margin-top: 0;
+      margin-bottom: 3.6rem;
+    }
+    .home ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .home li {
+      display: inline-block;
+      position: relative;
+    }
+    .home li a {
+      margin: 0 0.6rem;
+    }
+
+    footer .ai-disclaimer {
+      display: none;
+    }
+
+    .home-bg-image {
+      position: fixed;
+      right: 5%;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 40%;
+      max-width: 500px;
+      height: auto;
+      z-index: -1;
+      opacity: 0.3;
+      pointer-events: none;
+    }
+
+    @media screen and (max-width: 1000px) {
+      h2 {
+        font-size: 1.2em !important;
+      }
+      .home-bg-image {
+        width: 30%;
+        max-width: 250px;
+        opacity: 0.2;
+      }
+    }
+
+    @media screen and (max-width: 600px) {
+      .home-bg-image {
+        width: 40%;
+        max-width: 200px;
+        opacity: 0.15;
+      }
+    }
+  </style>
+
+  <img src="/img/0001-1.png" alt="" class="home-bg-image" />
+
+  <section class="container centered">
+    <div class="home">
+      <h1>{{ .Site.Params.author }}</h1>
+      <h2>{{ .Site.Params.info }}</h2>
+      {{ with .Site.Params.social }}
+        <ul>
+          {{ range sort . }}
+            <li><a href="{{ .url }}" target="_blank">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

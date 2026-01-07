@@ -11,9 +11,29 @@ While I currently work as a **Manager at Accenture** specializing in enterprise 
 
 #### Philosophy
 
-> "The closer to the hardware, the more I enjoy the work."
+```
+  I made a discovery today.  I found a computer.  Wait a second, this is
+  cool.  It does what I want it to.  If it makes a mistake, it's because I
+  screwed it up.  Not because it doesn't like me...
+                  Or feels threatened by me...
+                  Or thinks I'm a smart ass...
+                  Or doesn't like teaching and shouldn't be here...
+          Damn kid.  All he does is play games.  They're all alike.
 
-I started with game development and low-level programming, building game engines with Vulkan and C++. This foundation taught me about performance optimization, memory management, and hardware constraints—skills that translate to building better enterprise systems.
+ This is our world now... the world of the electron and the switch, the
+beauty of the baud.  We make use of a service already existing without paying
+for what could be dirt-cheap if it wasn't run by profiteering gluttons, and
+you call us criminals.  We explore... and you call us criminals.  We seek
+after knowledge... and you call us criminals.  We exist without skin color,
+without nationality, without religious bias... and you call us criminals.
+You build atomic bombs, you wage wars, you murder, cheat, and lie to us
+and try to make us believe it's for our own good, yet we're the criminals.
+
+        Yes, I am a criminal.  My crime is that of curiosity.  My crime is
+that of judging people by what they say and think, not what they look like.
+My crime is that of outsmarting you, something that you will never forgive me
+for.
+```
 
 #### Current Work
 

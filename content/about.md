@@ -1,6 +1,9 @@
 +++
 title = "About me"
 slug = "about"
+[params]
+  metadescription = "Emanuel Matias D'Urso - Solution Architect and Software Engineer specializing in enterprise platforms, game engine development, and systems programming."
+  metakeywords = "emanuel durso, software architect, solution architect, game engine developer, systems programming, SAP Commerce, enterprise architecture"
 +++
 
 #### Introduction

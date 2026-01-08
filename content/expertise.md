@@ -1,6 +1,9 @@
 +++
 title = "Expertise"
 slug = "expertise"
+[params]
+  metadescription = "Technical expertise: C++, Vulkan API, Game Engine Development, SAP Commerce, Java, Spring Boot, Cloud Architecture, Systems Programming, Enterprise Platforms."
+  metakeywords = "emanuel durso skills, vulkan, c++, game engine, SAP Commerce, java, spring boot, cloud architecture, enterprise architecture, systems programming"
 +++
 
 ## Technical Skills

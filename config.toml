@@ -1,10 +1,24 @@
 baseurl = "https://emanueldurso.com"
 title = "Emanuel Matias D'Urso"
 copyright = "Content is available under CC-BY-SA 4.0"
-languageCode = "en"
+languageCode = "es"
+defaultContentLanguage = "es"
 timeZone = "America/Argentina/Buenos_Aires"
+enableRobotsTXT = true
+enableGitInfo = false
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -26,9 +40,11 @@ unsafe = true
 [params]
     author = "Emanuel Matias D'Urso"
     authorEmail = "emanueldurso1@gmail.com"
-    info = "Solution Architect | Game Engine Dev | Enterprise Software | Low-Level Programming"
-    description = "Software Architect and Engineer passionate about low-level systems, game engine development, and enterprise architecture. From Vulkan rendering pipelines to SAP Commerce solutions."
-    keywords = "emanuel durso, vulkan, game engine, c++, solution architect, sap commerce"
+    info = "Solution Architect | Graphics | Philosophy | Low-Level Programming"
+    description = "Software Architect and Engineer passionate about low-level systems, game engine development, and enterprise architecture. I talk about things."
+    keywords = "emanuel durso, emanuel matias d'urso, software architect, solution architect, sap commerce, vulkan, game engine, c++, java developer, spring boot, enterprise architecture, low-level programming, systems programming"
+    ogImage = "/images/og-image.png"
+    twitterHandle = "@emanueldurso"
 
 [[params.social]]
     name = "Email"

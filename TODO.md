@@ -1,4 +1,4 @@
 # TODOs
 
-- [ ] Add Capsa into experience somewhere
+- [ ] Multi language support (en/es)
 - [ ] Dark mode support

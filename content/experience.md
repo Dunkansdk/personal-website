@@ -1,6 +1,9 @@
 +++
 title = "Experience"
 slug = "experience"
+[params]
+  metadescription = "Emanuel Durso's professional experience: Manager at Accenture, Solution Architect, Enterprise Architect, Game Engine Development, SAP Commerce expert with 8+ years of experience."
+  metakeywords = "emanuel durso experience, software engineer, SAP Commerce, enterprise architect, game engine development, accenture, java developer, spring boot"
 +++
 
 ## Professional Experience

@@ -14,7 +14,7 @@
     {{ delimit $categories " | " | safeHTML }}
   </p>
   <ul>
-    {{ range .Pages }}
+    {{ range where .Pages ".Language.Lang" .Language.Lang }}
       <li><span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>

@@ -1,0 +1,13 @@
+{{ if .IsTranslated }}
+<div class="language-selector" style="margin-bottom: 1rem;">
+  <span style="font-weight: bold;">Available in:</span>
+  {{ range .Translations }}
+    <a href="{{ .RelPermalink }}" style="margin-left: 0.5rem;" {{ if eq .Language.Lang "en" }}title="English version"{{ else if eq .Language.Lang "es" }}title="Versión en español"{{ end }}>
+      {{ if eq .Language.Lang "en" }}🇬🇧 English{{ else if eq .Language.Lang "es" }}🇪🇸 Español{{ end }}
+    </a>
+  {{ end }}
+  <span style="margin-left: 0.5rem; color: #666;">
+    ({{ if eq .Language.Lang "en" }}🇬🇧 English{{ else if eq .Language.Lang "es" }}🇪🇸 Español{{ end }})
+  </span>
+</div>
+{{ end }}

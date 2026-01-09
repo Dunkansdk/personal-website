@@ -11,7 +11,7 @@ metakeywords = 'poder, corrompe, lideres, leadership, toxic, toxico'
 ### El poder te cambia (y no es metáfora)
 Muchas veces he visto gente en posiciones de poder maltratando, pasando todo por encima, cualidades que detesto en cualquier persona pero aun mas en aquellas que pueden hacer daño. 
 
-Y por supuesto pense cientos si no miles de veces en que yo jamas iba a ser de esa manera, pero sorpresa, como a todos nos ha pasado en algun momento tuve la suerte o desgracia de estar en una posicion de poder y resulta que no es tan fácil, el poder corrompe biologicamente. Te vuelve impulsivo, genera una ilusión de invencibilidad y lo mas complicado: **te apaga la empatía**. Tu cerebro por momentos deja de procesar el dolor ajeno como lo hacia antes.
+Descubrí que no es tan fácil, el poder corrompe biologicamente. Te vuelve impulsivo, genera una ilusión de invencibilidad y lo mas complicado: **te apaga la empatía**. Tu cerebro por momentos deja de procesar el dolor ajeno como lo hacia antes.
 
 Es una sensacion extraña, no cambiaste, pero ese mismo poder te convence de que quien hace las reglas sos vos y está bien romperlas. Como si te quitase todos esos frenos inhibitorios que normalmente te detienen y lo peor de todo, en esa posicion **el resto de la gente lo avala**, como si tuvieses una licencia magica para ser una mala persona... ahí es donde empieza el daño.
 

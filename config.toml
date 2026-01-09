@@ -1,13 +1,25 @@
 baseurl = "https://emanueldurso.com"
 title = "Emanuel Matias D'Urso"
 copyright = "Content is available under CC-BY-SA 4.0"
-languageCode = "es"
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 timeZone = "America/Argentina/Buenos_Aires"
 enableRobotsTXT = true
 enableGitInfo = false
 
 canonifyurls = true # Enable to turn relative URLs into absolute.
+
+# Language configuration
+[languages]
+  [languages.es]
+    languageCode = "es"
+    languageName = "Español"
+    weight = 1
+    title = "Emanuel Matias D'Urso"
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    title = "Emanuel Matias D'Urso"
 
 # Sitemap configuration
 [sitemap]

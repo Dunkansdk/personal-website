@@ -21,7 +21,7 @@
           {{ delimit $categories ", " | safeHTML }}
         {{ end }}
       </p>
-      <p style="margin-top: 0">
+      <p style="margin-bottom: 0; margin-top: 0;">
         {{ with .GetTerms "tags" }}
           <b>Tags:</b>
           {{ $tags := slice }}
@@ -31,6 +31,9 @@
           {{ delimit $tags ", " | safeHTML }}
         {{ end }}
       </p>
+      <p style="margin-bottom: 0; margin-top: 0;">
+        {{ partial "language-selector.html" . }}
+      </p> 
     </header>
 
     <div class="post-content">

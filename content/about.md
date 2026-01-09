@@ -3,7 +3,7 @@ title = "About me"
 slug = "about"
 [params]
   metadescription = "Emanuel Matias D'Urso - Solution Architect and Software Engineer specializing in enterprise platforms, game engine development, and systems programming."
-  metakeywords = "emanuel durso, software architect, solution architect, game engine developer, systems programming, SAP Commerce, enterprise architecture"
+  metakeywords = "emanuel durso, software architect, solution architect, developer"
 +++
 
 #### Introduction
@@ -15,15 +15,15 @@ While I currently work as a **Manager at Accenture** specializing in enterprise 
 #### Philosophy
 
 ```
-  I made a discovery today.  I found a computer.  Wait a second, this is
-  cool.  It does what I want it to.  If it makes a mistake, it's because I
-  screwed it up.  Not because it doesn't like me...
-                  Or feels threatened by me...
-                  Or thinks I'm a smart ass...
-                  Or doesn't like teaching and shouldn't be here...
-          Damn kid.  All he does is play games.  They're all alike.
+I made a discovery today.  I found a computer.  Wait a second, this is
+cool.  It does what I want it to.  If it makes a mistake, it's because I
+screwed it up.  Not because it doesn't like me...
+                Or feels threatened by me...
+                Or thinks I'm a smart ass...
+                Or doesn't like teaching and shouldn't be here...
+        Damn kid.  All he does is play games.  They're all alike.
 
- This is our world now... the world of the electron and the switch, the
+This is our world now... the world of the electron and the switch, the
 beauty of the baud.  We make use of a service already existing without paying
 for what could be dirt-cheap if it wasn't run by profiteering gluttons, and
 you call us criminals.  We explore... and you call us criminals.  We seek
@@ -32,7 +32,7 @@ without nationality, without religious bias... and you call us criminals.
 You build atomic bombs, you wage wars, you murder, cheat, and lie to us
 and try to make us believe it's for our own good, yet we're the criminals.
 
-        Yes, I am a criminal.  My crime is that of curiosity.  My crime is
+Yes, I am a criminal.  My crime is that of curiosity.  My crime is
 that of judging people by what they say and think, not what they look like.
 My crime is that of outsmarting you, something that you will never forgive me
 for.

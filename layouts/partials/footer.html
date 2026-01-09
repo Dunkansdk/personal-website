@@ -10,21 +10,45 @@
   .ai-disclaimer {
     text-align: center;
     margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    color: #888;
   }
   .site-disclaimer {
     font-size: 10px;
     line-height: 1.4;
     margin: 0 0 1rem;
   }
+  .bg-image-bottom-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 400px;
+    max-width: 100%;
+    opacity: 0.4;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  @media screen and (max-width: 1100px) {
+    .bg-image-bottom-right {
+      opacity: 0.3;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .bg-image-bottom-right {
+      opacity: 0.1;
+    }
+  }
 </style>
+
+<img src="/images/bg-2.webp" alt="" class="bg-image-bottom-right" />
+
 <footer class="footer">
   <section class="container">
     <p class="ai-disclaimer">
-      <i
-        >All content on this website is handwritten.
-        <br />
-        This website does not contain AI-generated content.</i
-      >
+      <i>All content on this website is handwritten.</i>
     </p>
 
     <br style="line-height: 0;" />

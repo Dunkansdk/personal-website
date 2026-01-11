@@ -55,8 +55,7 @@ unsafe = true
     info = "Solution Architect | Graphics | Philosophy | Low-Level Programming"
     description = "Software Architect and Engineer passionate about low-level systems, game engine development, and enterprise architecture. I talk about things."
     keywords = "emanuel durso, emanuel matias d'urso, software architect, solution architect, sap commerce, vulkan, game engine, c++, java developer, spring boot, enterprise architecture, low-level programming, systems programming"
-    ogImage = "/images/og-image.png"
-    twitterHandle = "@emanueldurso"
+    ogImage = "/images/favicon.png"
 
 [[params.social]]
     name = "Email"

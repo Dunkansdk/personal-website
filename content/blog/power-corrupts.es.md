@@ -1,7 +1,7 @@
 +++
 title = "El poder corrompe"
 date = 2025-07-07T12:00:00-03:00
-draft = false
+draft = true
 tags = ["Philosophy", "toxic", "leadership"]
 categories = ["Society"]
 metadescription = 'Poder corrompe lideres toxicos y como liderar'

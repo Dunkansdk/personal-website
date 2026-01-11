@@ -87,9 +87,3 @@ slug = "expertise"
 - SAP Certified Associate - Business User
 
 ---
-
-## What Drives Me
-
-I'm passionate about understanding how things work at the fundamental level. Whether it's analyzing assembly output to understand compiler optimizations, debugging GPU synchronization issues in Vulkan, or architecting enterprise systems at scale—I love solving complex technical challenges.
-
-The best solutions come from understanding the full stack: from CPU cache hierarchies to distributed system architectures.

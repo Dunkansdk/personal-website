@@ -1,9 +1,5 @@
 # Personal Website of Emanuel Matias D'Urso
 
-Personal website and blog built with Hugo, featuring articles about systems programming, game development, and software architecture.
-
-Based on [lucianonooijen/Personal-Website](https://github.com/lucianonooijen/Personal-Website).
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -38,46 +34,6 @@ Edit markdown files in `content/` directory:
 - `experience.md` - Work experience
 - `expertise.md` - Technical skills
 - `contact.md` - Contact information
-
-## 🎨 Customization
-
-### Site Configuration
-
-Edit `config.toml`:
-
-```toml
-title = "Your Name"
-baseurl = "https://yourdomain.com"
-
-[params]
-    author = "Your Name"
-    authorEmail = "your@email.com"
-    info = "Your tagline"
-    description = "Your description"
-```
-
-### Styling
-
-SASS files are in `assets/styles/`. After editing, rebuild CSS:
-
-```bash
-npm run build:css
-```
-
-## 📊 Analytics & Monitoring
-
-This site is designed to be privacy-first with no tracking or analytics by default.
-
-To add monitoring:
-- UptimeRobot for uptime monitoring
-- Cloudflare Analytics (privacy-friendly)
-
-## 🔒 Security
-
-- HTTPS enforced via Let's Encrypt
-- Security headers configured in Nginx
-- Regular automated updates on VPS
-- Fail2ban protection against brute force
 
 ## 📄 License
 
